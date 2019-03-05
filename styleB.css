@@ -1,0 +1,17 @@
+.nav p {
+	display: inline-block;
+	justify-content: space-between;
+	width:100px;
+	height:150px;
+	background-color:#eeeff2;
+	font-family: Tahoma;
+	font-size:40px;
+	text-align:left;
+	cursor: pointer;
+	border-left-style:dotted;
+	padding:10px;
+}
+
+p:hover{
+	background-color: yellow;
+}
